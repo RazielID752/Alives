@@ -23,13 +23,13 @@ a {
   --header-height: 4.5rem;
   /*base color */
   --base-color:#2A323B ;
-  --base-color-second:#343D47;
+  --base-color-second:#1D1D20;
   --base-color-alt: hsl(var(--hue) 57% 53%);
   --title-color: hsl(var(--hue) 41% 10%);
   --title-color-two:#7E9CBE;
   --text-color:#fff;
   --text-color-light: hsl(0 0% 98%);
-  --divider-color:#4A5867;
+  --divider-color:#212121;
   --body-color: #000;
   --base-testimoni-color:#343D47;
   /* --body-color-fundo:#2A323B; */
